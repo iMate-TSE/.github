@@ -5,7 +5,7 @@ iMate strives to help you have a longer healthier and most importantly happier l
 
 ## Features 
 - Daily Tasks tailored to your current mood.
-- Breathing Excersise tool.
+- Breathing Exercise tool.
 - An ai powered chat bot to help determine emotions.
 - A set of questionnaires to help you determine your mood.
 - A journal to track your mood over time.
