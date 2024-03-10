@@ -1,7 +1,4 @@
 # Welcome to iMate
-iMate is a magic app which has to do a lot for the amount of time we have xd
-
-- Ai Stuff
-- Maf
-
-*Someone write a nicer intro pls and thank you*
+iMate is a multi-platform friendly app designed to help you and your loved ones keep track of your emotional wellbeing in a fun and friendly interactive manner. 
+Imate boasts many helpful tools to help you stay on track to a healthier mindset such as meditation,journaling and daily tasks.
+Imate strives to help you have a longer healthier and most importantly happier life.
